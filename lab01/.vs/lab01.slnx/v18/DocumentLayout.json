@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ltw\\lab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45EC8910-B05A-2067-EBD6-25D873A79A18}|lab01\\lab01.csproj|d:\\ltw\\lab01\\lab01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45EC8910-B05A-2067-EBD6-25D873A79A18}|lab01\\lab01.csproj|solutionrelative:lab01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EC8910-B05A-2067-EBD6-25D873A79A18}|lab01\\lab01.csproj|d:\\ltw\\lab01\\lab01\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{45EC8910-B05A-2067-EBD6-25D873A79A18}|lab01\\lab01.csproj|solutionrelative:lab01\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EC8910-B05A-2067-EBD6-25D873A79A18}|lab01\\lab01.csproj|d:\\ltw\\lab01\\lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EC8910-B05A-2067-EBD6-25D873A79A18}|lab01\\lab01.csproj|solutionrelative:lab01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EC8910-B05A-2067-EBD6-25D873A79A18}|lab01\\lab01.csproj|d:\\ltw\\lab01\\lab01\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EC8910-B05A-2067-EBD6-25D873A79A18}|lab01\\lab01.csproj|solutionrelative:lab01\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ltw\\lab01\\lab01\\Form1.cs",
+              "RelativeDocumentMoniker": "lab01\\Form1.cs",
+              "ToolTip": "D:\\ltw\\lab01\\lab01\\Form1.cs [Design]",
+              "RelativeToolTip": "lab01\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T07:49:41.468Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\ltw\\lab01\\lab01\\Form1.resx",
+              "RelativeDocumentMoniker": "lab01\\Form1.resx",
+              "ToolTip": "D:\\ltw\\lab01\\lab01\\Form1.resx",
+              "RelativeToolTip": "lab01\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-16T07:49:27.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ltw\\lab01\\lab01\\Program.cs",
+              "RelativeDocumentMoniker": "lab01\\Program.cs",
+              "ToolTip": "D:\\ltw\\lab01\\lab01\\Program.cs",
+              "RelativeToolTip": "lab01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T07:48:50.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\ltw\\lab01\\lab01\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "lab01\\Form1.Designer.cs",
+              "ToolTip": "D:\\ltw\\lab01\\lab01\\Form1.Designer.cs",
+              "RelativeToolTip": "lab01\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T07:48:35.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

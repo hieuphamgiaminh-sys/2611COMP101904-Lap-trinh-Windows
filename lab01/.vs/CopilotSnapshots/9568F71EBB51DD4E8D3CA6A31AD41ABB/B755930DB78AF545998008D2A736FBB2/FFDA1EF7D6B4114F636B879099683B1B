@@ -1,0 +1,152 @@
+﻿namespace lab01
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            components = new System.ComponentModel.Container();
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(520, 420);
+            Text = "Thông tin sinh viên";
+
+            // Create controls
+            lblTitle = new Label();
+            lblTitle.Text = "NHẬP THÔNG TIN SINH VIÊN";
+            lblTitle.Font = new Font(lblTitle.Font.FontFamily, 12F, FontStyle.Bold);
+            lblTitle.AutoSize = true;
+            lblTitle.Location = new Point(120, 10);
+
+            // Labels and textboxes
+            lblHoTen = new Label();
+            lblHoTen.Text = "Họ tên:";
+            lblHoTen.Location = new Point(20, 50);
+            lblHoTen.AutoSize = true;
+
+            txtHoTen = new TextBox();
+            txtHoTen.Name = "txtHoTen";
+            txtHoTen.Location = new Point(120, 48);
+            txtHoTen.Size = new Size(360, 23);
+
+            lblNamSinh = new Label();
+            lblNamSinh.Text = "Năm sinh:";
+            lblNamSinh.Location = new Point(20, 90);
+            lblNamSinh.AutoSize = true;
+
+            txtNamSinh = new TextBox();
+            txtNamSinh.Name = "txtNamSinh";
+            txtNamSinh.Location = new Point(120, 88);
+            txtNamSinh.Size = new Size(120, 23);
+
+            lblEmail = new Label();
+            lblEmail.Text = "Email:";
+            lblEmail.Location = new Point(20, 130);
+            lblEmail.AutoSize = true;
+
+            txtEmail = new TextBox();
+            txtEmail.Name = "txtEmail";
+            txtEmail.Location = new Point(120, 128);
+            txtEmail.Size = new Size(360, 23);
+
+            // GroupBox for gender
+            groupBoxGender = new GroupBox();
+            groupBoxGender.Text = "Giới tính";
+            groupBoxGender.Location = new Point(20, 170);
+            groupBoxGender.Size = new Size(240, 60);
+
+            radNam = new RadioButton();
+            radNam.Text = "Nam";
+            radNam.Location = new Point(15, 25);
+            radNam.AutoSize = true;
+
+            radNu = new RadioButton();
+            radNu.Text = "Nữ";
+            radNu.Location = new Point(100, 25);
+            radNu.AutoSize = true;
+
+            groupBoxGender.Controls.Add(radNam);
+            groupBoxGender.Controls.Add(radNu);
+
+            // ComboBox for khoa
+            lblKhoa = new Label();
+            lblKhoa.Text = "Khoa/Lớp:";
+            lblKhoa.Location = new Point(20, 250);
+            lblKhoa.AutoSize = true;
+
+            cboKhoa = new ComboBox();
+            cboKhoa.Name = "cboKhoa";
+            cboKhoa.Location = new Point(120, 246);
+            cboKhoa.Size = new Size(240, 23);
+            cboKhoa.DropDownStyle = ComboBoxStyle.DropDownList;
+            cboKhoa.Items.AddRange(new object[] { "Công nghệ thông tin", "Kỹ thuật phần mềm", "Mạng máy tính" });
+            cboKhoa.SelectedIndex = -1;
+
+            // Buttons
+            btnHienThi = new Button();
+            btnHienThi.Text = "Hiển thị";
+            btnHienThi.Location = new Point(20, 300);
+            btnHienThi.Size = new Size(100, 30);
+            btnHienThi.Click += btnHienThi_Click;
+
+            btnXoa = new Button();
+            btnXoa.Text = "Xóa";
+            btnXoa.Location = new Point(140, 300);
+            btnXoa.Size = new Size(100, 30);
+            btnXoa.Click += btnXoa_Click;
+
+            btnThoat = new Button();
+            btnThoat.Text = "Thoát";
+            btnThoat.Location = new Point(260, 300);
+            btnThoat.Size = new Size(100, 30);
+            btnThoat.Click += btnThoat_Click;
+
+            // Result label
+            lblKetQua = new TextBox();
+            lblKetQua.Multiline = true;
+            lblKetQua.ReadOnly = true;
+            lblKetQua.Location = new Point(20, 340);
+            lblKetQua.Size = new Size(460, 60);
+
+            // Add controls to form
+            Controls.Add(lblTitle);
+            Controls.Add(lblHoTen);
+            Controls.Add(txtHoTen);
+            Controls.Add(lblNamSinh);
+            Controls.Add(txtNamSinh);
+            Controls.Add(lblEmail);
+            Controls.Add(txtEmail);
+            Controls.Add(groupBoxGender);
+            Controls.Add(lblKhoa);
+            Controls.Add(cboKhoa);
+            Controls.Add(btnHienThi);
+            Controls.Add(btnXoa);
+            Controls.Add(btnThoat);
+            Controls.Add(lblKetQua);
+        }
+
+        #endregion
+    }
+}
