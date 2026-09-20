@@ -1,0 +1,15 @@
+D:\ltw\lab03\lab03\bin\Debug\net10.0\lab03.exe
+D:\ltw\lab03\lab03\bin\Debug\net10.0\lab03.deps.json
+D:\ltw\lab03\lab03\bin\Debug\net10.0\lab03.runtimeconfig.json
+D:\ltw\lab03\lab03\bin\Debug\net10.0\lab03.dll
+D:\ltw\lab03\lab03\bin\Debug\net10.0\lab03.pdb
+D:\ltw\lab03\lab03\obj\Debug\net10.0\lab03.GeneratedMSBuildEditorConfig.editorconfig
+D:\ltw\lab03\lab03\obj\Debug\net10.0\lab03.AssemblyInfoInputs.cache
+D:\ltw\lab03\lab03\obj\Debug\net10.0\lab03.AssemblyInfo.cs
+D:\ltw\lab03\lab03\obj\Debug\net10.0\lab03.csproj.CoreCompileInputs.cache
+D:\ltw\lab03\lab03\obj\Debug\net10.0\lab03.dll
+D:\ltw\lab03\lab03\obj\Debug\net10.0\refint\lab03.dll
+D:\ltw\lab03\lab03\obj\Debug\net10.0\lab03.pdb
+D:\ltw\lab03\lab03\obj\Debug\net10.0\lab03.genruntimeconfig.cache
+D:\ltw\lab03\lab03\obj\Debug\net10.0\ref\lab03.dll
+D:\ltw\lab03\lab03\obj\Debug\net10.0\lab03.csproj.Up2Date

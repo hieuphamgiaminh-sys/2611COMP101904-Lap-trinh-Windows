@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ltw\\2611COMP101904-Lap-trinh-Windows\\BTLOP\\16092026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B57CBFA-ED9F-4B60-9054-E04AE82075B8}|16092026\\16092026.csproj|d:\\ltw\\2611comp101904-lap-trinh-windows\\btlop\\16092026\\16092026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B57CBFA-ED9F-4B60-9054-E04AE82075B8}|16092026\\16092026.csproj|solutionrelative:16092026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ltw\\2611COMP101904-Lap-trinh-Windows\\BTLOP\\16092026\\16092026\\Program.cs",
+              "RelativeDocumentMoniker": "16092026\\Program.cs",
+              "ToolTip": "D:\\ltw\\2611COMP101904-Lap-trinh-Windows\\BTLOP\\16092026\\16092026\\Program.cs*",
+              "RelativeToolTip": "16092026\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T09:34:22.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

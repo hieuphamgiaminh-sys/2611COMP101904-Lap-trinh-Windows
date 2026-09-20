@@ -1,0 +1,16 @@
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\bin\Debug\net10.0\16092026.exe
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\bin\Debug\net10.0\16092026.deps.json
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\bin\Debug\net10.0\16092026.runtimeconfig.json
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\bin\Debug\net10.0\16092026.dll
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\bin\Debug\net10.0\16092026.pdb
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\obj\Debug\net10.0\16092026.GeneratedMSBuildEditorConfig.editorconfig
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\obj\Debug\net10.0\16092026.AssemblyInfoInputs.cache
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\obj\Debug\net10.0\16092026.AssemblyInfo.cs
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\obj\Debug\net10.0\16092026.csproj.CoreCompileInputs.cache
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\obj\Debug\net10.0\16092026.sourcelink.json
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\obj\Debug\net10.0\16092026.dll
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\obj\Debug\net10.0\refint\16092026.dll
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\obj\Debug\net10.0\16092026.pdb
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\obj\Debug\net10.0\16092026.genruntimeconfig.cache
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\obj\Debug\net10.0\ref\16092026.dll
+D:\ltw\2611COMP101904-Lap-trinh-Windows\BTLOP\16092026\16092026\obj\Debug\net10.0\16092026.csproj.Up2Date

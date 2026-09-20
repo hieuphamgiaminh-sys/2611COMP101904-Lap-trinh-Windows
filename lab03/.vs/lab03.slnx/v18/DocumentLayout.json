@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ltw\\lab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{789A3F9F-1AAB-4D3D-BC98-A142EABCD909}|lab03\\lab03.csproj|d:\\ltw\\lab03\\lab03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789A3F9F-1AAB-4D3D-BC98-A142EABCD909}|lab03\\lab03.csproj|solutionrelative:lab03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789A3F9F-1AAB-4D3D-BC98-A142EABCD909}|lab03\\lab03.csproj|d:\\ltw\\lab03\\lab03\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789A3F9F-1AAB-4D3D-BC98-A142EABCD909}|lab03\\lab03.csproj|solutionrelative:lab03\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789A3F9F-1AAB-4D3D-BC98-A142EABCD909}|lab03\\lab03.csproj|d:\\ltw\\lab03\\lab03\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789A3F9F-1AAB-4D3D-BC98-A142EABCD909}|lab03\\lab03.csproj|solutionrelative:lab03\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789A3F9F-1AAB-4D3D-BC98-A142EABCD909}|lab03\\lab03.csproj|d:\\ltw\\lab03\\lab03\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789A3F9F-1AAB-4D3D-BC98-A142EABCD909}|lab03\\lab03.csproj|solutionrelative:lab03\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLySinhVien.cs",
+              "DocumentMoniker": "D:\\ltw\\lab03\\lab03\\QuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "lab03\\QuanLySinhVien.cs",
+              "ToolTip": "D:\\ltw\\lab03\\lab03\\QuanLySinhVien.cs",
+              "RelativeToolTip": "lab03\\QuanLySinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T08:46:00.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\ltw\\lab03\\lab03\\SinhVien.cs",
+              "RelativeDocumentMoniker": "lab03\\SinhVien.cs",
+              "ToolTip": "D:\\ltw\\lab03\\lab03\\SinhVien.cs",
+              "RelativeToolTip": "lab03\\SinhVien.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T08:45:45.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nguoi.cs",
+              "DocumentMoniker": "D:\\ltw\\lab03\\lab03\\Nguoi.cs",
+              "RelativeDocumentMoniker": "lab03\\Nguoi.cs",
+              "ToolTip": "D:\\ltw\\lab03\\lab03\\Nguoi.cs",
+              "RelativeToolTip": "lab03\\Nguoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T08:45:35.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ltw\\lab03\\lab03\\Program.cs",
+              "RelativeDocumentMoniker": "lab03\\Program.cs",
+              "ToolTip": "D:\\ltw\\lab03\\lab03\\Program.cs",
+              "RelativeToolTip": "lab03\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAwwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T08:45:17.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
