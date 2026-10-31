@@ -53,15 +53,16 @@ Dưới đây là các trường hợp kiểm thử đã được thực hiện 
 
 ## 6. Hình ảnh minh chứng (Screenshots)
 
-*(Sinh viên thay thế các link ảnh dưới đây bằng ảnh chụp màn hình thực tế khi chạy code của mình)*
-
 **1. Hình ảnh hiển thị Menu và bắt lỗi chưa nhập mảng:**
 ![Menu và Bắt lỗi](1.jpg)
 **2. Hình ảnh nhập mảng và test case số 1 (Tổng, Max, Min, Chẵn, Lẻ):**
-![Test case 1](4.jpg)(5.jpg)(6.jpg)
+![Test case 1](4.jpg)
+(5.jpg)
+(6.jpg)
 
 **3. Hình ảnh Sắp xếp và Tìm kiếm:**
-![Sắp xếp và Tìm kiếm](7.jpg)(8.jpg)
+![Sắp xếp và Tìm kiếm](7.jpg)
+(8.jpg)
 
 **4. Hình ảnh bắt lỗi nhập liệu (nhập chữ cái thay vì số, hoặc n <= 0):**
 ![Bắt lỗi nhập liệu](9.jpg)
